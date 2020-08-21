@@ -1,0 +1,9 @@
+B School 200
+B Hospital 750
+B Store 300
+A Toyota 2500 25 9000 150000
+A Hyundai 3000 30 8000 200000
+A Mercedes 8000 20 9500 100000
+F Dairy 298 4 123 0.54 0.32
+F Drinks 400 5 230 0.12 0.44
+F Fruit 200 1 345 0.20 0.30
